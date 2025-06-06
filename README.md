@@ -3,13 +3,13 @@
 
 - 👨‍💻My projects are available at [portfolio-git-main-niyikorakevine-gmailcoms-projects.vercel.app](portfolio-git-main-niyikorakevine-gmailcoms-projects.vercel.app)
 
-- 📝 View my linked in on [linkedin.com/in/ihimbazwe-niyikora-kevine-85504729a/?trk=opento_sprofile_topcard](linkedin.com/in/ihimbazwe-niyikora-kevine-85504729a/?trk=opento_sprofile_topcard)
+- 📝 View my linked in on [www.linkedin.com/in/ihimbazwe-niyikora-kevine](www.linkedin.com/in/ihimbazwe-niyikora-kevine)
 
 - 📫 How to reach me **niyikorakevine@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/linkedin.com/in/ihimbazwe-niyikora-kevine-85504729a/?trk=opento_sprofile_topcard" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/ihimbazwe-niyikora-kevine-85504729a/?trk=opento_sprofile_topcard" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/www.linkedin.com/in/ihimbazwe-niyikora-kevine" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/ihimbazwe-niyikora-kevine" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
