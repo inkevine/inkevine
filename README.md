@@ -1,7 +1,7 @@
 <h1 align="center">Hi there👋, I am Ihimbazwe Niyikora Kevine</h1>
 <h3 align="center">A passionate student-fullstack developer.</h3>
 
-- 👨‍💻My projects are available at [portfolio-git-main-niyikorakevine-gmailcoms-projects.vercel.app](inkevine.vercel.app)
+- 👨‍💻My projects are available at [inkevine.vercel.app]
 
 - 📝 View my linked in on [www.linkedin.com/in/ihimbazwe-niyikora-kevine](www.linkedin.com/in/ihimbazwe-niyikora-kevine)
 
